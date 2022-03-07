@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635814236142",
+    "firebase_url": "https://kishan-seva-ecb5e-default-rtdb.firebaseio.com",
+    "project_id": "kishan-seva-ecb5e",
+    "storage_bucket": "kishan-seva-ecb5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635814236142:android:ac3f70160b997a5e5108ff",
+        "android_client_info": {
+          "package_name": "com.dhaval.kishanseva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635814236142-6abvndkit5ugm7ljn7r8ulbedpnlij2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dhaval.kishanseva",
+            "certificate_hash": "29aa4fc00f10f850b299a5bd9dec01336e214194"
+          }
+        },
+        {
+          "client_id": "635814236142-4n3ar4a9fgo8m9d36hq9petpmhfrea7l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Uu_pvBfVFkBLcSVCcrBs3e55CB5cS8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635814236142-4n3ar4a9fgo8m9d36hq9petpmhfrea7l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

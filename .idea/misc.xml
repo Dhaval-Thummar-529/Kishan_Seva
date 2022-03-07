@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/drawable-v24/box_bg.xml" value="0.121" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/agro_advisors_item.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/agro_advisory_item.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/cold_item.xml" value="0.2" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/content_main.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/dealers_item.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_agro_advisory.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_call_to_k_c_c.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_cold_storage.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_dealers.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_login.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_market_price.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_plant_protection.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_registration.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_soil_health_card.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/fragment_weather.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/market_price_list.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/plant_protection_item.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/soil_health_card_item.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/layout/weather_rv_list.xml" value="0.25" />
+        <entry key="..\:/Users/dhava/Downloads/KishanSeva/KishanSeva/app/src/main/res/menu/activity_main_drawer.xml" value="0.16054421768707483" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable-anydpi/ic_setting.xml" value="0.117" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable-v24/box_bg.xml" value="0.1" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable-v24/circular_bg.xml" value="0.1" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable/card_back.xml" value="0.1735" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable/ic_cloud.xml" value="0.1735" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable/ic_menu_home.xml" value="0.1735" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable/ic_plant_protection.xml" value="0.1735" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/drawable/side_nav_bar.xml" value="0.1735" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/activity_main.xml" value="0.136" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/app_bar_main.xml" value="0.16302083333333334" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/content_main.xml" value="0.25" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/fragment_home.xml" value="0.2" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/fragment_registration.xml" value="0.21403508771929824" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/fragment_weather.xml" value="0.25" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/layout/weather_rv_item.xml" value="0.25" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/firebase/KishanSeva/app/src/main/res/menu/main.xml" value="0.24615384615384617" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="15" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

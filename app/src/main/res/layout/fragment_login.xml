@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#125751"
+    tools:context=".login.RegistrationFragment">
+
+    <TextView
+        android:id="@+id/tvLogin"
+        style="@style/TextAppearance.MaterialComponents.Headline4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/login"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tvLogin"
+        android:layout_marginStart="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/white" />
+
+    <LinearLayout
+        android:id="@+id/llPhoneNumberLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/box_bg"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tvPhoneNumberLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="10dp"
+            android:text="@string/phone_number"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:drawableLeftCompat="@drawable/ic_phone_number"
+            app:drawableTint="@color/white" />
+
+        <EditText
+            android:id="@+id/edtPhoneNumberLogin"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:backgroundTint="@color/white"
+            android:gravity="center"
+            android:hint="@string/_8849773158"
+            android:importantForAutofill="no"
+            android:inputType="phone"
+            android:textColor="@color/white"
+            android:textColorHint="#A3ABB3"
+            android:textSize="15sp"
+            tools:targetApi="lollipop" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnGetOtpLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/llPhoneNumberLogin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/get_otp"
+        android:textAllCaps="false"
+        android:textSize="15sp" />
+
+    <LinearLayout
+        android:id="@+id/llOTPLogin"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnGetOtpLogin"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:background="@drawable/box_bg"
+        android:orientation="vertical"
+        android:padding="5dp">
+
+        <TextView
+            android:id="@+id/tvOTPLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:drawablePadding="10dp"
+            android:text="@string/otp"
+            android:textColor="@color/white"
+            android:textSize="15sp"
+            app:drawableLeftCompat="@drawable/ic_password"
+            app:drawableTint="@color/white" />
+
+        <EditText
+            android:id="@+id/edtOTPLogin"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:backgroundTint="@color/white"
+            android:gravity="center"
+            android:hint="@string/_012345"
+            android:importantForAutofill="no"
+            android:inputType="numberPassword"
+            android:textColor="@color/white"
+            android:textColorHint="#A3ABB3"
+            android:textSize="15sp"
+            tools:targetApi="lollipop" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnVerifyLogin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/llOTPLogin"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:text="@string/verify"
+        android:textAllCaps="false"
+        android:textSize="15sp" />
+</RelativeLayout>

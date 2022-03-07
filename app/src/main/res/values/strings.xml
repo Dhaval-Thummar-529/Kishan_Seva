@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Kishan Seva</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="_8849773158">8849773158</string>
+    <string name="_012345">012345</string>
+    <string name="dhaval_thummar">Dhaval Thummar</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="verify">Verify</string>
+    <string name="otp">OTP</string>
+    <string name="city">City</string>
+    <string name="vadodara">Vadodara</string>
+    <string name="weather">Weather</string>
+    <string name="dealers">Dealers</string>
+    <string name="market_price">Market Price</string>
+    <string name="plant_protection">Plant Protection</string>
+    <string name="agro_advisory">Agro Advisory</string>
+    <string name="call_to_kcc">Call to KCC</string>
+    <string name="soil_health_card">Soil Health Card</string>
+    <string name="coldstore_godown">ColdStore/Godown</string>
+    <string name="logout">Logout</string>
+    <string name="nav_dealers">Dealers</string>
+    <string name="nav_market_price">Market Price</string>
+    <string name="u_8849773158_u"><u>8849773158</u></string>
+    <string name="_1800_420_230"><u>1800 420 230</u></string>
+    <string name="_1800_260_327"><u>1800 260 327</u></string>
+    <string name="nav_agro">Agro Advisory</string>
+    <string name="plant_protection_schemes">Plant Protection Schemes</string>
+    <string name="nav_plant">Plant Protection</string>
+    <string name="nav_soil_health_card">Soil Health Card</string>
+    <string name="cold_storage_godown_information"><![CDATA[Cold Storage & Godown Information]]></string>
+</resources>

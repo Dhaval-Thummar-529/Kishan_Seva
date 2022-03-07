@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.dhaval.kishanseva.ui.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_weather"
+        android:name="com.dhaval.kishanseva.ui.WeatherFragment"
+        android:label="@string/weather"
+        tools:layout="@layout/fragment_weather" />
+
+    <fragment
+        android:id="@+id/nav_dealer"
+        android:name="com.dhaval.kishanseva.ui.DealersFragment"
+        android:label="@string/nav_dealers"
+        tools:layout="@layout/fragment_dealers" />
+
+    <fragment
+        android:id="@+id/nav_marketPrice"
+        android:name="com.dhaval.kishanseva.ui.MarketPriceFragment"
+        android:label="@string/nav_market_price"
+        tools:layout="@layout/fragment_market_price" />
+
+    <fragment
+        android:id="@+id/nav_plantProtection"
+        android:name="com.dhaval.kishanseva.ui.PlantProtection"
+        android:label="@string/nav_agro"
+        tools:layout="@layout/fragment_agro_advisory" />
+
+    <fragment
+        android:id="@+id/nav_agroAdvisory"
+        android:name="com.dhaval.kishanseva.ui.AgroAdvisory"
+        android:label="@string/nav_plant"
+        tools:layout="@layout/fragment_plant_protection" />
+
+    <fragment
+        android:id="@+id/nav_callKCC"
+        android:name="com.dhaval.kishanseva.ui.CallToKCC"
+        android:label="@string/nav_market_price"
+        tools:layout="@layout/fragment_market_price" />
+
+    <fragment
+        android:id="@+id/nav_soilHealthCard"
+        android:name="com.dhaval.kishanseva.ui.SoilHealthCard"
+        android:label="@string/nav_soil_health_card"
+        tools:layout="@layout/fragment_soil_health_card" />
+    <fragment
+        android:id="@+id/nav_coldStore"
+        android:name="com.dhaval.kishanseva.ui.ColdStorage"
+        android:label="Cold Storage"
+        tools:layout="@layout/fragment_cold_storage" />
+
+</navigation>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_home"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@id/nav_weather"
+            android:icon="@drawable/ic_cloud"
+            android:title="@string/weather" />
+        <item
+            android:id="@+id/nav_dealer"
+            android:icon="@drawable/ic_dealers"
+            android:title="@string/dealers" />
+        <item
+            android:id="@+id/nav_marketPrice"
+            android:icon="@drawable/ic_market_price"
+            android:title="@string/market_price" />
+        <item
+            android:id="@+id/nav_plantProtection"
+            android:icon="@drawable/ic_plant_protection"
+            android:title="@string/plant_protection" />
+        <item
+            android:id="@+id/nav_agroAdvisory"
+            android:icon="@drawable/ic_agro_advisory"
+            android:title="@string/agro_advisory" />
+        <item
+            android:id="@+id/nav_callKCC"
+            android:icon="@drawable/ic_call_kcc"
+            android:title="@string/call_to_kcc" />
+        <item
+            android:id="@+id/nav_soilHealthCard"
+            android:icon="@drawable/ic_soil_health_card"
+            android:title="@string/soil_health_card" />
+        <item
+            android:id="@+id/nav_coldStore"
+            android:icon="@drawable/ic_cold_store"
+            android:title="@string/coldstore_godown" />
+    </group>
+</menu>
